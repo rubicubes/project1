@@ -28,16 +28,9 @@ main {
   margin-bottom: 30px;
 }
 
-.profile-img {
-  width: 200px;
-  border-radius: 0;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
 .charactor-img {
   width: 800px;
-  border-radius: 0;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  height: auto;
 }
 
 .favorites ul {
