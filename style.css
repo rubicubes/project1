@@ -28,11 +28,6 @@ main {
   margin-bottom: 30px;
 }
 
-.charactor-img {
-  width: 800px;
-  height: auto;
-}
-
 .favorites ul {
   list-style: none;
   padding: 0;
@@ -49,10 +44,15 @@ figure {
   text-align: center;
 }
 
+.charactor-img {
+  width: 800px;
+  height: auto;
+}
+
 figcaption {
-  margin-top: 8px;
-  font-size: 14px;
+  font-size: 30px;
   color: #555;
+  margin-bottom: 20px;
 }
 
 .links a {
